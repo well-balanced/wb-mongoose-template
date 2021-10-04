@@ -4,7 +4,7 @@ generated express + mongoose skeleton using npx script
 ## Usage
 
 ```sh
-$ npx wb-mongoose
+$ npx wb-mongoose [your-project-name]
 ```
 
 ## Source
