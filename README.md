@@ -6,4 +6,5 @@ npx script: https://github.com/well-balanced/wb-mongoose
 $ npx wb-mongoose
 ```
 
+
 template: https://github.com/well-balanced/wb-mongoose-template
