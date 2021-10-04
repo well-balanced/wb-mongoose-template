@@ -1,3 +1,9 @@
 # Mongoose Skeleton by well-balanced
 
-source: https://github.com/well-balanced/wb-mongoose-template
+npx script: https://github.com/well-balanced/wb-mongoose
+
+```sh
+& npx wb-mongoose
+```
+
+template: https://github.com/well-balanced/wb-mongoose-template
