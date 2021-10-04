@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": ["es6", "dom", "esnext"],
+    "module": "commonjs",
+    "allowJs": true,
+    "strictNullChecks": true,
+    "outDir": "./lib",
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "paths": {
+      "*": ["node_modules/*", "./src/*"]
+    },
+    "typeRoots": ["@types", "./node_modules/@types"]
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
