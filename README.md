@@ -1,10 +1,12 @@
 # Mongoose Skeleton by well-balanced
+generated express + mongoose skeleton using npx script
 
-npx script: https://github.com/well-balanced/wb-mongoose
+## Usage
 
 ```sh
 $ npx wb-mongoose
 ```
 
-
-template: https://github.com/well-balanced/wb-mongoose-template
+## Source
+- [npx script](https://github.com/well-balanced/wb-mongoose)
+- [template](https://github.com/well-balanced/wb-mongoose-template)
