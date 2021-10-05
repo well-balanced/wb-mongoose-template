@@ -18,8 +18,4 @@ $ npx wb-mongoose [your-project-name]
 
 
 ## License
-<<<<<<< HEAD
 MIT
-=======
-ISC
->>>>>>> 835126caea05db06056c224b3435e9c12337e302
