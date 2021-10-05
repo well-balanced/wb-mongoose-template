@@ -1,4 +1,4 @@
-# Mongoose Skeleton by well-balanced
+# wb-mongoose-template
 generated express + mongoose skeleton using npx script
 
 [![NPM Version][npm-image]][npm-url]
@@ -18,4 +18,8 @@ $ npx wb-mongoose [your-project-name]
 
 
 ## License
+<<<<<<< HEAD
 MIT
+=======
+ISC
+>>>>>>> 835126caea05db06056c224b3435e9c12337e302
