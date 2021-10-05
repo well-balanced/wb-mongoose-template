@@ -1,5 +1,5 @@
 # wb-mongoose-template
-generated express + mongoose skeleton using npx script
+generated TypeScript + express + mongoose skeleton using npx script
 
 [![NPM Version][npm-image]][npm-url]
 
